@@ -1,0 +1,315 @@
+
+#Presentacion {
+  text-align: center; 
+  background: linear-gradient(yellow, red);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#maxh2 {
+  text-align: left;
+  background: linear-gradient(black, blue);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#maxp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#max {
+  width: 60vw;
+  height: 25vw; 
+  overflow: hidden;
+  border: none; 
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#peteh2 {
+  text-align: left;
+  background: linear-gradient(blue, red);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#petep {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#pete {
+  width: 60vw;
+  height: 25vw; 
+  overflow: hidden;
+  border: none; 
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#hoopsh2 {
+  text-align: left;
+  background: linear-gradient(pink, purple);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#hoopsp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#hoops {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+}
+
+#willowh2 {
+  text-align: left;
+  background: linear-gradient(green, yellow);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#willowp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#willow {
+  width: 60vw;
+  height: 25vw; 
+  overflow: hidden;
+  border: none; 
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#burlh2 {
+  text-align: left;
+  background: linear-gradient(gray, white);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#burlp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#burl {
+  width: 60vw;
+  height: 25vw; 
+  overflow: hidden;
+  border: none; 
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#wendellh2 {
+  text-align: left;
+  background: linear-gradient(black, white);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#wendellp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#wendell {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+}
+
+#director-shmectorh2 {
+  text-align: left;
+  background: linear-gradient(green, white);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#director-shmectorp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#director-shmector {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+}
+
+#mantish2 {
+  text-align: left;
+  background: linear-gradient(pink, purple);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#mantisp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#mantis {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+}
+
+#madre-arañah2 {
+  text-align: left;
+  background: linear-gradient(white, black);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#madre-arañap {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#madre-araña {
+  width: 60vw;
+  height: 25vw; 
+  overflow: hidden;
+  border: none; 
+  display: block;
+  margin: auto;
+  border-radius: 50%;  
+}
+
+#reina-avispah2 {
+  text-align: left;
+  background: linear-gradient(yellow, black);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#reina-avispap {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#reina-avispa {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+}
+
+#madre-araña-infectadah2 {
+  text-align: left;
+  background: linear-gradient(blue, white);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
+
+#madre-araña-infectadap {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#madre-araña-infectada {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5vw;
+}
+
+body {
+  background: linear-gradient(rgba(149, 190, 37, 0.3), rgba(149, 190, 37,  0.3)), url('https://assetsio.gnwcdn.com/grounded-news-10-mantis.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp');
+  background-repeat: repeat;
+  background-size: 15vw 15vw;
+}
+
+#video-2 {
+  width: 60vw;
+  height: 25vw; 
+  overflow: hidden;
+  border: none; 
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  margin-bottom: 5vw;
+}
+
+#video { 
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5vw;
+}
+
+#mantis-2 {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5vw;
+}
+
+#mantis-3 {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+}
+
+#samuel 
+ {
+  border-radius: 50vw; 
+  width: 40vw;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5vw;
+}
+#samuelp {
+  text-align: left;
+  color: white;
+  font-size: 2vw;
+}
+
+#samuelh2 {
+  text-align: left;
+  background: linear-gradient(blue, red);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 3vw;
+}
